@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/QuartIntegrations/DesignTimeBuild
+/.vs/QuartIntegrations/FileContentIndex
+/.vs/QuartIntegrations/v17
+/.vs/QuartIntegrations/v16
+/.vs/QuartzIntegrations/FileContentIndex
+/.vs/ProjectEvaluation
+/QuartzApplications/bin/Debug/net8.0
+/QuartzApplications/obj
+/QuartzInfrastructure/bin/Debug/net8.0
+/QuartzInfrastructure/obj
+/QuartzIntegrations.Core/obj
+/QuartzIntegrations.Core/bin/Debug/net8.0
+/.vs/QuartzIntegrations/v17
+/.vs/QuartzIntegrations/DesignTimeBuild/.dtbcache.v2
